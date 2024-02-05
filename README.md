@@ -1,4 +1,4 @@
-# Raspberry Pi Pico SDK Examples
+# SJSU Badge Programs
 
 ## Getting started
 
@@ -24,6 +24,7 @@ create a build directory and run cmake:
 ```bash
 mkdir build
 cd build
+export PICO_SDK_PATH=../pico-sdk
 cmake ..
 make
 ```
