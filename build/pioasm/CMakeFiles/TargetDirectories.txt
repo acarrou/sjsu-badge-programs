@@ -1,3 +1,0 @@
-/Users/adrien/Repos/Pico/sjsu-badge-programs/build/pioasm/CMakeFiles/pioasm.dir
-/Users/adrien/Repos/Pico/sjsu-badge-programs/build/pioasm/CMakeFiles/edit_cache.dir
-/Users/adrien/Repos/Pico/sjsu-badge-programs/build/pioasm/CMakeFiles/rebuild_cache.dir
