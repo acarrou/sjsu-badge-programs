@@ -5,7 +5,17 @@
 clone the repository and initialize the submodules:
 
 ```bash
-git clone 
+git clone https://github.com/acarrou/sjsu-badge-programs.git
+```
+
+## Installing the Pico SDK
+The Pico SDK is a submodule of this repository, to initialize it run:
+
+```bash
+git clone -b master https://github.com/raspberrypi/pico-sdk.git
+cd pico-sdk
+git submodule update --init
+cd ..
 ```
 
 ## Building the examples
